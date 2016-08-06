@@ -66,48 +66,6 @@ This course will introduce you to the foundations of modern cryptography, with a
 
   * [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardwaresec)
 
-#### Cybrary - Online Cyber Security Training
-Cyber Security jobs are growing three times faster than information technology jobs. However, this rapidly growing and very exciting industry lacks the number of skilled professionals required to handle the jobs. Some common  jobs within Cyber Security include information assurance, security analyst, penetration tester, malware analyst/reverse engineering and Intel. With these types of opportunities available, aspiring or growing Cyber Security professionals should focus on continually increasing their skill set, because the Cyber Security industry never rests, it is continually changing. However, traditionally, Cyber Security classes are the most expensive training classes. As you know, that barrier to entry has been removed.
-
-  * [CompTIA    Security+](http://www.cybrary.it/course/comptia-security-plus/) <br>
-  In this class you will gain a stable foundation of Cyber Security and Information Assurance as well as prepare for the security industry's most sought after entry level certification.
-
-  * [Cryptography](http://www.cybrary.it/course/cryptography/) <br>
-  Learn how to secure data communications through the use of cryptographic messaging and practices.
-
-  * [Ethical Hacking and Penetration Testing](http://www.cybrary.it/course/ethical-hacking/) <br>
-  Learn the fundamentals of hacking and penetration testing. Think like a hacker, so that you can stop them from intruding into your systems. This class will help prepare you for the industries most sought after certification, EC-Council's CEH.
-
-  * [Computer and Hacking Forensics](http://www.cybrary.it/course/computer-hacking-forensics-analyst/) <br>
-  In order to catch cyber criminals, you have to learn how to retrace their steps and correctly acquire and document the evidence. Also prepare for the industry leading CHFI certification from the EC-Council.
-
-  * [CompTIA Advanced Security Practitioner (CASP)](http://www.cybrary.it/course/comptia-casp/) <br>
-  This advanced certification covers deep topics that span across both Cyber Security as well as Information Assurance.
-
-  * [ISACA Certified Information Systems Auditor (CISA)](http://www.cybrary.it/course/cisa/) <br>
-  Become an expert in information systems auditing and controlling with this leading auditor certification from ISACA.
-
-  * [Certified Information Systems Security Professional (CISSP)](http://www.cybrary.it/course/cissp/) <br>
-  The leading certification for Information Assurance management personnel. This course is both very deep, and very broad. Be ready to study hard!
-
-  * [Post Exploitation](http://www.cybrary.it/course/post-exploitation-hacking/) <br>
-  Learn what to do to maintain your presence and to gather intelligence after you have exploited the target system.
-
-  * [Social Engineering and Manipulation](http://www.cybrary.it/course/social-engineering/) <br>
-  Take a look inside the form, function and flow of a highly skilled social engineering cyber-attack. Learn to protect the human element.
-
-  * [Python for Security Professionals](http://www.cybrary.it/course/python-security-professionals/) <br>
-  Learn the commands and functions that every aspiring cyber security professional must know from Python. This isn't a full programming course, but rather a course designed for non-coders who are developing their career in security.
-
-  * [Metasploit](http://www.cybrary.it/course/metasploit/) <br>
-  An in-depth look inside the Metasploit Framework intended to show you how to use it to its full potential.
-
-  * [Malware Analysis and Reverse Engineering](http://www.cybrary.it/course/malware-analysis/) <br>
-  An introduction to reverse engineering malware. This class is for experienced Cyber Security professionals, generally at least two to three years in the field is preferred.
-
-  * [Advanced Penetration Testing by Georgia Weidman](http://www.cybrary.it/course/advanced-penetration-testing/) <br>
-  This class is for advanced Cyber Security professionals. You will learn in depth, hands-on, advanced hacking techniques to help you target and penetrate almost any highly secured environment.
-
 #### SANS Cyber Aces
 SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. SANS goal in making these courses available as open courseware is to help grow the talent pool and accelerate the rate at which skilled cyber professionals can enter the information security industry filling mission critical jobs currently going unfilled.
 
