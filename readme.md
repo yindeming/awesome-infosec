@@ -198,11 +198,6 @@ This course will start off by covering basic x86 reverse engineering, vulnerabil
 
 * [CSCI 4968 - Spring '15 Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
-####  Rensselaer Polytechnic Institute - Hardware Reverse Engineering
-Reverse engineering techniques for semiconductor devices and their applications to competitive analysis, IP litigation, security testing, supply chain verification, and failure analysis. IC packaging technologies and sample preparation techniques for die recovery and live analysis. Deprocessing and staining methods for revealing features bellow top passivation. Memory technologies and appropriate extraction techniques for each. Study contemporary anti-tamper/anti-RE methods and their effectiveness at protecting designs from attackers. Programmable logic microarchitecture and the issues involved with reverse engineering programmable logic.
-
-  * [CSCI 4974/6974 - Spring '14 Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
-
 ####  City College of San Francisco - Sam Bowne Class
 
   * [CNIT 120 - Network Security](https://samsclass.info/120/120_S15.shtml) <br>
