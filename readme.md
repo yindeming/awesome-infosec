@@ -31,6 +31,14 @@ Table of Contents
 Massive Online Open Courses
 ===========================
 
+#### Udacity
+
+* [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
+
+#### Understanding Cryptography
+* [Understanding Cryptography](http://wiki.crypto.rub.de/Buch/movies.php)
+
+
 #### Stanford University - Computer Security
 In this class you will learn how to design secure systems and write secure code. You will learn how to find vulnerabilities in code and how to design software systems that limit the impact of security vulnerabilities. We will focus on principles for building secure systems and give many real world examples.
 
