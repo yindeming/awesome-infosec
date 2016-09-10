@@ -161,6 +161,12 @@ Windows is designed to be compatible with a lot of devices which is why there ar
 Academic Courses
 ================
 
+#### MIT - 
+Design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications. Assignments include labs that involve implementing and compromising a secure web server and web application, and a group final project.
+* [6.858 Computer System Security](http://css.csail.mit.edu/6.858/2014/)(videos:https://www.youtube.com/playlist?list=PLA6Ht2dJt3SLQmKhygx8HfwV_hxuPPCea)
+
+
+
 #### Stanford Computer Security Laboratory
 * [CS55N: Freshman seminar: Great Ideas in Computer Security and Cryptography](https://crypto.stanford.edu/~dabo/cs55N/)
 * [CS155: Computer and Network Security](https://crypto.stanford.edu/cs155/)
