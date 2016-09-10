@@ -161,6 +161,15 @@ Windows is designed to be compatible with a lot of devices which is why there ar
 Academic Courses
 ================
 
+#### Stanford Computer Security Laboratory
+* [CS55N: Freshman seminar: Great Ideas in Computer Security and Cryptography](https://crypto.stanford.edu/~dabo/cs55N/)
+* [CS155: Computer and Network Security](https://crypto.stanford.edu/cs155/)
+* [CS255: Introduction to Cryptography and Computer Security](https://crypto.stanford.edu/~dabo/cs255/)
+* [CS259: Security Analysis of Network Protocols](https://courseware.stanford.edu/pg/courses/331628/cs259-winter-2013/)
+* [CS355: Topics in Cryptography](https://crypto.stanford.edu/~dabo/cs355/)
+* [CS99J: Sophomore seminar: Computer Security and Privacy](http://theory.stanford.edu/people/jcm/cs099j/)
+* [CS142: Web Programming and Security](https://crypto.stanford.edu/cs142/)
+
 #### Florida State University's - Offensive Computer Security
 The primary incentive for an attacker to exploit a vulnerability, or series of vulnerabilities is to achieve a return on an investment (his/her time usually). This return need not be strictly monetary, an attacker may be interested in obtaining access to data, identities, or some other commodity that is valuable to them.  The field of penetration testing involves authorized auditing and exploitation of systems to assess actual system security in order to protect against attackers.  This requires thorough knowledge of vulnerabilities and how to exploit them.  Thus, this course provides an introductory but comprehensive coverage of the fundamental methodologies, skills, legal issues, and tools used in white hat penetration testing and secure system administration.
 
