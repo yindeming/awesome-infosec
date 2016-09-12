@@ -75,7 +75,7 @@ This course will introduce you to the foundations of modern cryptography, with a
   * [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardwaresec)
 
 #### SANS Cyber Aces
-SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. SANS goal in making these courses available as open courseware is to help grow the talent pool and accelerate the rate at which skilled cyber professionals can enter the information security industry filling mission critical jobs currently going unfilled.
+A series of videos and handouts, and 3 short multi-choice exams for each module. It is advised to skip the videos and read through the handouts, and finally take the exams to check your understanding of the course. The exam will offer scores only.
 
   * [SANS Cyber Aces Online Courses](http://www.cyberaces.org/courses/)
   * [SANS Cyber Aces Online Tutorials](https://tutorials.cyberaces.org/tutorials)
