@@ -206,29 +206,39 @@ This course will start off by covering basic x86 reverse engineering, vulnerabil
 
 * [CSCI 4968 - Spring '15 Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
-####  City College of San Francisco - Sam Bowne Class
+####  City College of San Francisco - Sam Bowne Class (https://samsclass.info/)
 
-  * [CNIT 120 - Network Security](https://samsclass.info/120/120_S15.shtml) <br>
+  * [CNIT 120 - Network Security S15](https://samsclass.info/120/120_S15.shtml) <br>
 Knowledge and skills required for Network Administrators and Information Technology professionals to be aware of security vulnerabilities, to implement security measures, to analyze an existing network environment in consideration of known security threats or risks, to defend against attacks or viruses, and to ensure data privacy and integrity. Terminology and procedures for implementation and configuration of security, including access control, authorization, encryption, packet filters, firewalls, and Virtual Private Networks (VPNs).
 
-  * [CNIT 121 - Computer Forensics](https://samsclass.info/121/121_S15.shtml) <br>
+  * [CNIT 121 - Computer Forensics F16](https://samsclass.info/121/121_F16.shtml) <br>
 The class covers forensics tools, methods, and procedures used for investigation of computers, techniques of data recovery and evidence collection, protection of evidence, expert witness skills, and computer crime investigation techniques. Includes analysis of various file systems and specialized diagnostic software used to retrieve data. Prepares for part of the industry standard certification exam, Security+, and also maps to the Computer Investigation Specialists exam.
 
-  * [CNIT 123 - Ethical Hacking and Network Defense](https://samsclass.info/123/123_S15.shtml) <br>
+  * [CNIT 123 - Ethical Hacking and Network Defense F16](https://samsclass.info/123/123_F16.shtml) <br>
 Students learn how hackers attack computers and networks, and how to protect systems from such attacks, using both Windows and Linux systems. Students will learn legal restrictions and ethical guidelines, and will be required to obey them. Students will perform many hands-on labs, both attacking and defending, using port scans, footprinting, exploiting Windows and Linux vulnerabilities, buffer overflow exploits, SQL injection, privilege escalation, Trojans, and backdoors.
 
-  * [CNIT 124 - Advanced Ethical Hacking](https://samsclass.info/124/124_F15.shtml) <br>
+  * [CNIT 124 - Advanced Ethical Hacking F15](https://samsclass.info/124/124_F15.shtml) <br>
 Advanced techniques of defeating computer security, and countermeasures to protect Windows and Unix/Linux systems. Hands-on labs include Google hacking, automated footprinting, sophisticated ping and port scans, privilege escalation, attacks against telephone and Voice over Internet Protocol (VoIP) systems, routers, firewalls, wireless devices, Web servers, and Denial of Service attacks.
 
-  * [CNIT 126 - Practical Malware Analysis](https://samsclass.info/126/126_F14.shtml) <br>
+  * [CNIT 126 - Practical Malware Analysis F14](https://samsclass.info/126/126_F14.shtml) <br>
 Learn how to analyze malware, including computer viruses, trojans, and rootkits, using disassemblers, debuggers, static and dynamic analysis, using IDA Pro, OllyDbg and other tools.
 
-  * [CNIT 127 - Exploit Development](https://samsclass.info/127/127_F15.shtml) <br>
+  * [CNIT 127 - Exploit Development F15](https://samsclass.info/127/127_F15.shtml) <br>
 Learn how to find vulnerabilities and exploit them to gain control of target systems, including Linux, Windows, Mac, and Cisco. This class covers how to write tools, not just how to use them; essential skills for advanced penetration testers and software security professionals.
 
-  * [CNIT 128 - Hacking Mobile Devices](https://samsclass.info/128/128_S15.shtml) <br>
+  * [CNIT 128 - Hacking Mobile Devices S15](https://samsclass.info/128/128_S15.shtml) <br>
 Mobile devices such as smartphones and tablets are now used for making purchases, emails, social networking, and many other risky activities. These devices run specialized operating systems have many security problems. This class will cover how mobile operating systems and apps work, how to find and exploit vulnerabilities in them, and how to defend them. Topics will include phone call, voicemail, and SMS intrusion, jailbreaking, rooting, NFC attacks, malware, browser exploitation, and application vulnerabilities. Hands-on projects will include as many of these activities as are practical and legal.
 
+  * [CNIT 140: IT Security Practices F16](https://samsclass.info/140/140_F16.shtml) <br>
+ Training students for cybersecurity competitions, including CTF events and the Collegiate Cyberdefense Competition (CCDC). This training will prepare students for employment as security professionals, and if our team does well in the competitions, the competitors will gain recognition and respect which should lead to more and better job offers.
+The primary focus of this class is hands-on defense of systems. Students will work in groups configuring servers, firewalls, routers, switches, and other systems to resist attacks.
+
+  * [CNIT 129S: Securing Web Applications F16](https://samsclass.info/129S/129S_F16.shtml) <br>
+ Techniques used by attackers to breach Web applications, and how to protect them. How to secure authentication, access, databases, and back-end components. How to protect users from each other. How to find common vulnerabilities in compiled code and source code. 
+ 
+  * [CNIT 40: DNS Security F16](https://samsclass.info/40/40_F16.shtml) <br>
+ DNS is crucial for all Internet transactions, but it is subject to numerous security risks, including phishing, hijacking, packet amplification, spoofing, snooping, poisoning, and more. Learn how to configure secure DNS servers, and to detect malicious activity with DNS monitoring. We will also cover DNSSEC principles and deployment. Students will perform hands-on projects deploying secure DNS servers on both Windows and Linux platforms.  
+ 
   * [Violent Python and Exploit Development](https://samsclass.info/127/127_WWC_2014.shtml) <br>
  In the exploit development section, students will take over vulnerable systems with simple Python scripts.
 
